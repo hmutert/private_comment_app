@@ -1,0 +1,12 @@
+{
+  "app": {
+    "description":  "Make private comments while writing your public comment.",
+    "name":         "Private comments"
+  },
+  "comment_heading": "Private comment",
+  "comment_submit": "Comment!",
+  "comment_placeholder": "write private note here ...",
+  "comment_error_empty": "Comment cannot be empty",
+  "comment_success": "Private comment stored!<br/>Hidden until refresh.",
+  "comment_error_request": ""
+}

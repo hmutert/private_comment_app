@@ -1,0 +1,1 @@
+{"app":{"description":"パブリックコメントを書き込んでいる間にプライベートなコメントをする。","name":"民間のコメント"},"comment_heading":"非公開コメント","comment_submit":"コメント！","comment_placeholder":"ここにプライベートノートを書いてください...","comment_error_empty":"コメントは、空にすることはできません","comment_success":"非公開コメントは保存さ！ <br/>更新するまで隠されて。","comment_error_request":""}

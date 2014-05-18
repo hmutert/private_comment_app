@@ -1,0 +1,7 @@
+<section data-main>
+  <div class="form">
+    <h4>{{t "comment_heading"}}</h4>
+    <textarea placeholder="{{t "comment_placeholder"}}" class="private-comment" rows="4" cols="50"></textarea>
+    <button class='btn submit'>{{t "comment_submit"}}</button>
+  </div>
+</section>
